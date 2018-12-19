@@ -5,8 +5,8 @@
 
 
 jssUrl="https://pkopocz.jamfcloud.com"
-jamfUser="api"
-jamfPass="api"
+jamfUser=""
+jamfPass=""
 device_id="8"
 
 #Values for extension attribue
